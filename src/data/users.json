@@ -1,0 +1,9 @@
+[
+  {
+    "id": "patient-001",
+    "username": "healthbridge",
+    "email": "patient@healthbridge.com",
+    "password": "Health@123",
+    "name": "Alex Morgan"
+  }
+]
